@@ -1,5 +1,8 @@
 _repo: The-Laughter-of-Toffee_66014
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 66014-h/images/cover.jpg
 creator:
   author:
     agent_name: Farrell, Henry
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/53188
     wikipedia: https://en.wikipedia.org/wiki/Henry_Farrell
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66014#The-Laughter-of-Toffee
 gutenberg_issued: '2021-08-08'
 gutenberg_type: Text
 identifiers:
